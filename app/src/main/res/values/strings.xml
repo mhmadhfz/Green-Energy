@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Bill Calculator</string>
+    <string name="o">Home</string>
+    <string name="instruction_selected">Instruction_Selected</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+</resources>
